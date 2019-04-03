@@ -1,0 +1,81 @@
+h1{
+	color:violet;
+	font-size:75px;
+	font-family: American Typewriter;}
+}
+h2{
+	color:pink;
+	font-size:50px;
+	font-family:Arial Black;
+}
+h3{
+	color:black;
+	font-size:50px;
+	font-family:Arial Black;
+}
+h4{
+	color:black;
+	font-size:50px;
+	font-family:Arial Black;
+}
+
+h5{
+	color:black;
+	font-size:50px;
+	font-family:Arial Black;
+}
+
+h6{
+	color:black;
+	font-size:50px;
+	font-family:Arial Black;
+	
+}
+
+#fat{background-color:pink;
+	margin: 25px;
+	padding: 25px;
+	font-family: Arial Black
+	border-top: 10px dashed black;
+	border-right: 10px dashed black;
+	border-bottom: 10px dashed black;
+	border-left: 10px dashed black;
+	border-radius: 50px;
+	box-shadow: 10px 10px 12px grey;
+}
+#aich{background-color:yellow;
+	margin: 25px;
+	padding: 25px;
+	font-family: Arial Black
+	border-top: 10px dashed black;
+	border-right: 10px dashed black;
+	border-bottom: 10px dashed black;
+	border-left: 10px dashed black;
+	border-radius: 50px;
+	box-shadow: 10px 10px 12px grey;
+}
+#bbb{background-color:blue;
+	margin: 25px;
+	padding: 25px;
+	font-family: Arial Black
+	border-top: 10px dashed black;
+	border-right: 10px dashed black;
+	border-bottom: 10px dashed black;
+	border-left: 10px dashed black;
+	border-radius: 50px;
+	box-shadow: 10px 10px 12px grey;
+}
+#ccc{background-color:orange;
+	margin: 25px;
+	padding: 25px;
+	font-family: Arial Black
+	border-top: 10px dashed black;
+	border-right: 10px dashed black;
+	border-bottom: 10px dashed black;
+	border-left: 10px dashed black;
+	border-radius: 50px;
+	box-shadow: 10px 10px 12px grey;
+}
+body{background-color: purple;
+	
+	}
